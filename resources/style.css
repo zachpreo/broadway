@@ -7,6 +7,17 @@ body {
   text-align: center;
 }
 
+h1 {
+  color: white;
+  font-size: 70px;
+  font-weight: bold;
+}
+
+a {
+  color: white;
+}
+
+
 #header {
   background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
 }
