@@ -5,7 +5,6 @@ html {
 
 body {
   text-align: center;
-  font-weight: bold;
 }
 
 h1 {
@@ -24,6 +23,12 @@ h3 {
   font-size: 23px;
 }
 
+h1,
+h2,
+h3 {
+  font-weight: bold;
+}
+
 p {
   font-size: 14px;
 }
@@ -35,4 +40,11 @@ p {
 
 #header {
   background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+}
+
+#footer {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
 }
